@@ -1,6 +1,8 @@
 # Discord-Token-Generator-2022
 generate discord accounts bypass
 works with __anticaptcha__ (https://anti-captcha.com)
+if you claim the free credits then you can generate for free
+hcaptcha bypass coming soon
 
 ```py
 import requests, os, json, secrets
