@@ -1,3 +1,4 @@
+## Still works but new discord patch made it so accounts get __locked__.
 # Discord-Token-Generator-2022
 generate discord accounts bypass
 works with __anticaptcha__ (https://anti-captcha.com)
