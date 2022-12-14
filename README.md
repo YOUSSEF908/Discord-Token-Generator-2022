@@ -6,4 +6,4 @@ A Discord token generator or account creator that uses Anti-Captcha to bypass HC
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 #### Notice:
-The generator is patched and no-longer works. However, if this repository receives 5 Stars ⭐️ I will consider releasing another generator with AI Solver (free captcha)
+The generator is patched and no-longer works! However, if this repository receives 5 Stars ⭐️ I will consider releasing another generator with AI Solver (free captcha)
