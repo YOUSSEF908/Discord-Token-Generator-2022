@@ -8,4 +8,4 @@ A Discord token generator or account creator that uses Anti-Captcha to bypass HC
 #### Notice:
 The generator is patched and no-longer works! However, if this repository receives 20 Stars ⭐️ I will be releasing another generator with AI Solver (free captcha)
 
-Only 5 more stars left until I release the unlocked generator with AI solver.
+Only 4 more stars left until I release the unlocked generator with AI solver.
